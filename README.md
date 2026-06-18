@@ -1,1 +1,1 @@
-wena po, soy homelo, homelo chino
+Juego con palabras de la RAE.
